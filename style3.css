@@ -22,9 +22,9 @@ nav{
     font-weight: 600;
 }
 nav>h1{
-    font-family: "face";
     text-align: center;
     font-size: 2.5em;
+    font-family: ;
 }
 nav>a{
     text-decoration: none;
